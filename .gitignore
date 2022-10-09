@@ -13,3 +13,16 @@
 
 # Dependency directories (remove the comment below to include it)
 # vendor/
+
+# Bazel files
+bazel-bazel-gazelle
+bazel-bin
+bazel-genfiles
+bazel-leetcode
+bazel-out
+bazel-testlogs
+
+# Certain VS Code specific files
+.vscode/configurationCache.log
+.vscode/dryrun.log
+.vscode/targets.log
