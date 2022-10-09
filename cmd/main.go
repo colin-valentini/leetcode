@@ -1,9 +1,9 @@
 package main
 
 import (
-	"fmt"
+	leetcode "github.com/colin-valentini/leetcode/pkg"
 )
 
 func main() {
-	fmt.Println("main.go successfully ran")
+	leetcode.HelloWorld()
 }
